@@ -4259,7 +4259,8 @@ msgstr ""
 msgid ""
 "If this box is checked, the system will try to group the accounting lines "
 "when generating them from invoices."
-msgstr ""
+msgstr "Si cette boite est verifiee,  le systeme essaiera de regrouper les lignes suivantes "
+"lorsqu'elles seront generees depuis votre facture"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_sepa
@@ -4267,20 +4268,26 @@ msgid ""
 "If you check this box, you will be able to register your payment using SEPA.\n"
 "-This installs the module account_sepa."
 msgstr ""
+"Si vous verifiez cette boite, vous pourrez enregistrer votre paiement en utilisant SEPA.\n"
+"-Ceci installe le module account_sepa."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_accountant
 msgid ""
 "If you do not check this box, you will be able to do invoicing & payments,\n"
 "             but not accounting (Journal Items, Chart of  Accounts, ...)"
-msgstr ""
+msgstr 
+"Si vous ne verifiez pas cette boite, vous pourrez utiliser facture & paiements,\n"
+""
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "If you have less than 200 contacts, we recommend you\n"
 "                                        create them manually."
-msgstr ""
+msgstr
+"Si vous avez moins de 200 contacts, nous vous recommandons\n"
+"                                        de les creer manuellement."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_company_tax_calculation_rounding_method
